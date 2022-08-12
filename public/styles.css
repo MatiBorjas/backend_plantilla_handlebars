@@ -10,5 +10,14 @@
 }
 
 h1 {
-  font-family: 'Lucida Console', 'Courier New', monospace;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 5px 5px;
+  border: 2px solid rgb(0, 0, 122);
+  border-radius: 5px;
+  background-color: rgb(157, 198, 201);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
